@@ -26,7 +26,7 @@ Hey
 
 [Link](url) and ![Image](src)
 ```
-#Chase Koester's First CS193 Homework
+# Chase Koester's First CS193 Homework
 
 - Led by students
 
