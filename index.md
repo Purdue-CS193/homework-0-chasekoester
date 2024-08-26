@@ -26,19 +26,10 @@ Hey
 
 [Link](url) and ![Image](src)
 ```
-
-# **Opinions**
-
-## My Top 5 Favorite Animals:
-1. Dogs
-2. Cats
-3. Tigers
-4. Giraffes
-5. Alligators
-
-## My Favorite Candy Ever:
-Butterfingers
-
+#Chase Koester's First CS193 Homework
+-Led by students
+-Gives us good skills that will apply in our future careers
+-One class a week
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
