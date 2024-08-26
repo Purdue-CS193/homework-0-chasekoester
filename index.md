@@ -27,8 +27,11 @@ Hey
 [Link](url) and ![Image](src)
 ```
 #Chase Koester's First CS193 Homework
+
 -Led by students
+
 -Gives us good skills that will apply in our future careers
+
 -One class a week
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
