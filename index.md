@@ -26,14 +26,18 @@ Hey
 
 [Link](url) and ![Image](src)
 ```
-# **My Top 5 Favorite Animals are:**
+
+# **Opinions**
+
+## My Top 5 Favorite Animals:
 1. Dogs
 2. Cats
 3. Tigers
 4. Giraffes
 5. Alligators
 
-![Image]()
+## My Favorite Candy Ever:
+Butterfingers
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
