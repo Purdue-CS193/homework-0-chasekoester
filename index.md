@@ -32,6 +32,7 @@ Hey
 3. Tigers
 4. Giraffes
 5. Alligators
+![Image](gitdog.jpeg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
